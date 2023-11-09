@@ -1,0 +1,3 @@
+admin = abc123
+pelajar = abc456
+warden = abc123
